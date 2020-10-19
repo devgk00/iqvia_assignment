@@ -7,7 +7,7 @@ Code follows PEP8 Standards
 ### Cloning the project:
 Go to the desired directory and run
 
-    git clone <git url>
+    git clone https://github.com/devgk00/iqvia_assignment.git
 
 ### Installing and creating virtual env
 Go to the project root directory and run
